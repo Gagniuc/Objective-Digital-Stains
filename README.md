@@ -4,7 +4,7 @@ The objective digital stain (ODS) is represented by a distribution of points on 
 
 **Live demo**: https://gagniuc.github.io/Objective-Digital-Stains/
 
-<kbd><img src="https://github.com/Gagniuc/Objective-Digital-Stains/blob/main/%5BG%5D%20Objective%20Digital%20Stains.png" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Objective-Digital-Stains/blob/main/ods.png?raw=true" /></kbd>
 
 # References
 
